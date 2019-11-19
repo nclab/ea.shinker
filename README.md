@@ -14,6 +14,8 @@ Execution Environment in Study
 * OS: Windows 10 64-bit
 * Written in C++
 * Compiled with TDM-GCC 4.9.2 64-bit release (-std=c++11)
+	* Mergesort: ```g++ -std=c++11 -o a.out mergesort.cpp```
+	* Red-Black Tree Insertion: ```g++ -std=c++11 -o a.out main.cpp```
 
 
 Showcase: Mergesort
