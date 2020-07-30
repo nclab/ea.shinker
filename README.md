@@ -72,3 +72,12 @@ Mann-Whitney U Test and Statistics
 		E.g.,
 			* "MS_rw-vs-MS_ga" means Mann-Whitney U test on RW and GA for merge sort<br/>
 			* "RBT_rs-vs-RBT_rw" means Mann-Whitney U test on RS and RW for RBT insertion
+
+----------
+
+Use
+---
+
+Please cite
+
+> Lo, F.-Y., Chen, C.-H., & Chen, Y.-p. (2020). Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms. In <i>Proceedings of 2020 IEEE Congress on Evolutionary Computation (CEC 2020)</i>.
